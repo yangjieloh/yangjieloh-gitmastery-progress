@@ -348,5 +348,14 @@
       "You have successfully undone the merge of branch 'others'."
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-squash",
+    "started_at": 1787405226.57144,
+    "completed_at": 1787405228.75567,
+    "comments": [
+      "Good job performing a merge squash!"
+    ],
+    "status": "Completed"
   }
 ]
